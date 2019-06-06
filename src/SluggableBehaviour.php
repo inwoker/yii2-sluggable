@@ -1,6 +1,6 @@
 <?php
 
-namespace inwoker\translateable;
+namespace inwoker\sluggable;
 
 use Yii;
 use yii\behaviors\SluggableBehavior as CoreSluggableBehavior;
