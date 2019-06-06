@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "invoker\\sluggable\\": "src"
+            "inwoker\\sluggable\\": "src"
         }
     }
 }
