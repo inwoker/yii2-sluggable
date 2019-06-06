@@ -1,0 +1,1 @@
+# The sluggable behavior optimized for russian and ukrainian languages for the Yii2 framework

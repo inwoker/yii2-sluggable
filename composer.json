@@ -1,0 +1,24 @@
+{
+    "name": "inwoker/yii2-sluggable",
+    "description": "The sluggable behavior optimized for russian and ukrainian languages for the Yii2 framework",
+    "keywords": [
+        "yii2",
+        "sluggable"
+    ],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Serhii Sementsov",
+            "email": "inwoker@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.14"
+    },
+    "autoload": {
+        "psr-4": {
+            "invoker\\sluggable\\": "src"
+        }
+    }
+}
